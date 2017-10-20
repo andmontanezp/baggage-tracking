@@ -1,23 +1,12 @@
-# Flux 
+# Definition of Ready 
 
-An application architecture for React
+Definition of Ready
 
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+1) Validar la disponibilidad de recursos tecnológicos.
+2) Validar que la historia es Atómica.
+3) La historia tiene claros los criterios de aceptación.
+4) Conocer los KPI's impactados al momento de desarrollar la historia.
+5) Poseer los prototipos o Mockups de las interfaces de usuario.
+6) Se requiere que al menos dos integrantes del equipo sean capaces de explicar en detalle lo que se requiere desarrollar en la historia.
 
 ---
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
-
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
-
