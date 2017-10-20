@@ -1,6 +1,4 @@
-# Definition of Ready 
-
-Definition of Ready
+### Definition of Ready 
 
 - Validar la disponibilidad de recursos tecnológicos.
 - Validar que la historia es Atómica.
